@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+ <url>
+  <loc>http://www.pendletonunitedmethodist.org/contact.html</loc>
+  <lastmod>2012-08-10T08:41:49Z</lastmod>
+  <priority>0.8</priority>
+ </url>
+ <url>
+  <loc>http://www.pendletonunitedmethodist.org/events.html</loc>
+  <lastmod>2013-10-11T08:24:27Z</lastmod>
+  <priority>0.86</priority>
+ </url>
+ <url>
+  <loc>http://www.pendletonunitedmethodist.org/heritage.html</loc>
+  <lastmod>2012-08-10T08:41:50Z</lastmod>
+  <priority>0.8</priority>
+ </url>
+ <url>
+  <loc>http://www.pendletonunitedmethodist.org</loc>
+  <lastmod>2013-10-11T10:50:52Z</lastmod>
+  <priority>1</priority>
+ </url>
+ <url>
+  <loc>http://www.pendletonunitedmethodist.org/legal.html</loc>
+  <lastmod>2012-08-10T08:41:51Z</lastmod>
+  <priority>0.8</priority>
+ </url>
+ <url>
+  <loc>http://www.pendletonunitedmethodist.org/newsletter.html</loc>
+  <lastmod>2013-10-11T08:44:26Z</lastmod>
+  <priority>0.86</priority>
+  <changefreq>monthly</changefreq>
+ </url>
+ <url>
+  <loc>http://www.pendletonunitedmethodist.org/theumc.html</loc>
+  <lastmod>2012-08-10T08:41:52Z</lastmod>
+  <priority>0.8</priority>
+ </url>
+</urlset>
